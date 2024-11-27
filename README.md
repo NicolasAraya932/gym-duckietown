@@ -3,7 +3,7 @@ Instrucciones:
 - git clone https://github.com/NicolasAraya932/gym-duckietown.git
 - cd gym-duckietown
 - pip3 install -r requirements.txt
-- pip3 install torch torchvision torchaudio --index-url download.pytorch.org/whl/cpu
+- pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
 - conda install pytorch::pytorch
 
 # ----------------------------------------------------------------------------------
