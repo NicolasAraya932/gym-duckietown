@@ -1,4 +1,12 @@
-# Gym-Duckietown
+# Gym-Duckietown Ubuntu20.04
+Instrucciones:
+- git clone https://github.com/NicolasAraya932/gym-duckietown.git
+- cd gym-duckietown
+- pip3 install -r requirements.txt
+- pip3 install torch torchvision torchaudio --index-url download.pytorch.org/whl/cpu
+- conda install pytorch::pytorch
+
+# ----------------------------------------------------------------------------------
 
 [![Build Status](https://circleci.com/gh/duckietown/gym-duckietown/tree/master.svg?style=shield)](https://circleci.com/gh/duckietown/gym-duckietown/tree/master) [![Docker Hub](https://img.shields.io/docker/pulls/duckietown/gym-duckietown.svg)](https://hub.docker.com/r/duckietown/gym-duckietown)
 
