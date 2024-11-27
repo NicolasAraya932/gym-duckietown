@@ -1,4 +1,4 @@
-# Gym-Duckietown Ubuntu20.04
+# Gym-Duckietown FORK
 Instrucciones:
 - git clone https://github.com/NicolasAraya932/gym-duckietown.git
 - cd gym-duckietown
